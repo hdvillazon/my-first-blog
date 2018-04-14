@@ -25,7 +25,7 @@ SECRET_KEY = '*@4r01ot-n3s7sle#f$pit=rg0zd=ai^qp&rs*1jg4to0a$do('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'hdvillazon@pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'hdvillazon.pythonanywhere.com']
 
 
 # Application definition
